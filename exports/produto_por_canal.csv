@@ -1,0 +1,15 @@
+﻿nome_canal,nome_produto,categoria,unidades_vendidas,receita_total,custo_total,lucro_bruto,margem_percentual
+Venda Consultiva,Produto Profissional,Linha Premium,8,7540.0,3440.0,4100.0,54.38
+Venda Consultiva,Consultoria Avulsa,Serviços,6,4470.0,1080.0,3390.0,75.84
+Venda Consultiva,Produto Premium,Linha Premium,3,1800.0,810.0,990.0,55.0
+Marketplace,Kit Promocional,Linha Básica,45,7665.0,6750.0,915.0,11.94
+Loja Física,Produto Premium,Linha Premium,2,1180.0,540.0,640.0,54.24
+Marketplace,Produto Entrada,Linha Básica,23,2309.0,1886.0,423.0,18.32
+Loja Física,Serviço Adicional,Serviços,3,540.0,135.0,405.0,75.0
+E-commerce,Assinatura Mensal,Recorrência,5,495.0,125.0,370.0,74.75
+WhatsApp,Produto Intermediário,Linha Média,3,720.0,420.0,300.0,41.67
+Venda Consultiva,Serviço Adicional,Serviços,2,360.0,90.0,270.0,75.0
+E-commerce,Produto Entrada,Linha Básica,6,640.0,492.0,148.0,23.13
+WhatsApp,Assinatura Mensal,Recorrência,2,198.0,50.0,148.0,74.75
+WhatsApp,Serviço Adicional,Serviços,1,180.0,45.0,135.0,75.0
+E-commerce,Produto Intermediário,Linha Média,1,240.0,140.0,100.0,41.67

@@ -1,0 +1,9 @@
+﻿nome_produto,categoria,unidades_vendidas,receita_total,custo_total,lucro_bruto,margem_percentual
+Produto Profissional,Linha Premium,8,7540.0,3440.0,4100.0,54.38
+Consultoria Avulsa,Serviços,6,4470.0,1080.0,3390.0,75.84
+Produto Premium,Linha Premium,5,2980.0,1350.0,1630.0,54.7
+Kit Promocional,Linha Básica,45,7665.0,6750.0,915.0,11.94
+Serviço Adicional,Serviços,6,1080.0,270.0,810.0,75.0
+Produto Entrada,Linha Básica,29,2949.0,2378.0,571.0,19.36
+Assinatura Mensal,Recorrência,7,693.0,175.0,518.0,74.75
+Produto Intermediário,Linha Média,4,960.0,560.0,400.0,41.67

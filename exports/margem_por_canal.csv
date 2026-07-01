@@ -1,0 +1,6 @@
+﻿nome_canal,tipo_canal,receita_total,custo_total,lucro_bruto,margem_percentual
+Venda Consultiva,Consultiva,14170.0,5420.0,8750.0,61.75
+Marketplace,Online,9974.0,8636.0,1338.0,13.41
+Loja Física,Offline,1720.0,675.0,1045.0,60.76
+E-commerce,Online,1375.0,757.0,618.0,44.95
+WhatsApp,Conversacional,1098.0,515.0,583.0,53.1
